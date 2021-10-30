@@ -16,6 +16,7 @@ public class ex4_14 {
 		} while (x <= 0);
 		// do문 종료 시 x는 반드시 양의 값이 된다
 		
+		
 		int sum=0;
 		for(int i=1; i<=x; i++) {
 			sum+=i;
