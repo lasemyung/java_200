@@ -16,9 +16,9 @@ public class ex4_16 {
 		System.out.println("------------------");
 		
 		for ( int i=hMin; i<hMax; i+=step) {
-			System.out.println(i+" "+ 0.9*(i-100));
+			System.out.println(i+" "+ 0.9*(i-100)); // 표준 키와 신장을 알려 줌
 		}
 	}
 
-	
+		
 }
